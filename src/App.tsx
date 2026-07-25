@@ -7,6 +7,7 @@ import { Navigation } from './components/Navigation';
 import { Hero } from './components/Hero';
 import { Stats } from './components/Stats';
 import { Capabilities } from './components/Capabilities';
+import { Products } from './components/Products';
 import { Facilities } from './components/Facilities';
 import { Quality } from './components/Quality';
 import { Features } from './components/Features';
@@ -20,6 +21,7 @@ export default function App() {
       <Hero />
       <Stats />
       <Capabilities />
+      <Products />
       <Facilities />
       <Quality />
       <Features />
