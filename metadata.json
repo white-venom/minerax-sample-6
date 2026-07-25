@@ -1,0 +1,6 @@
+{
+  "name": "Minerax",
+  "description": "Premium steel casting and industrial manufacturing enterprise.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
