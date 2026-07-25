@@ -8,7 +8,7 @@ export function Footer() {
           
           <div className="lg:col-span-1">
             <div className="flex items-center gap-3 mb-6">
-              <img src="/logo_bw.jpeg" alt="Minerax Logo" className="h-10 w-auto rounded object-contain shadow-sm" />
+              <img src="/logo.png" alt="Minerax Logo" className="h-10 w-auto invert object-contain" />
             </div>
             <p className="text-neutral-400 leading-relaxed mb-6">
               Minerax and industrial manufacturing enterprise dedicated to enduring strength and unmatched quality.
